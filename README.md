@@ -6,3 +6,7 @@ Responsive Homework WebDesign Michigan
 ![Static Badge](https://img.shields.io/badge/CSS3-%232965f1)
 
 you can check the page at https://ramirezjm.github.io/responsiveHomework/
+
+<div>
+  <img src="./images/screenshot.jpg" width=500>
+</div>
